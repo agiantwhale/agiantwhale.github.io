@@ -1,0 +1,1 @@
+particlesJS.load("particles","scripts/particlesjs-config-white.json",function(){console.log("callback - particles.js config loaded")}),console.log("Well hello there, aren't you a little hacker?");
