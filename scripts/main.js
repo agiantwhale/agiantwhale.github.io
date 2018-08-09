@@ -1,1 +1,0 @@
-"use strict";$(document).ready(function(){$("ul").css("padding-left",$("#indent").width()+"px")});
