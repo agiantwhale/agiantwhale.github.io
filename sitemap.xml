@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://jae.works/posts/march_2018_summary/</loc>
+    <lastmod>2019-04-02T17:26:58-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jae.works/sounds/</loc>
+    <lastmod>2019-04-02T16:26:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jae.works/code/</loc>
+    <lastmod>2019-04-02T16:25:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jae.works/tags/lifelog/</loc>
+    <lastmod>2019-04-02T17:26:58-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jae.works/posts/</loc>
+    <lastmod>2019-04-02T17:26:58-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jae.works/tags/</loc>
+    <lastmod>2019-04-02T17:26:58-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jae.works/</loc>
+    <lastmod>2019-04-02T17:26:58-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
